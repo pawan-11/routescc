@@ -1,0 +1,10 @@
+Client ID,Ride Date,Appointment Time,End Time,Wait Time,Pickup Address,Destination Address
+21-004520,2021-02-19,12:15 pm,03:15 pm,180,"8 School Street, East Gwillimbury, ON, L9N 1L1","2075 Bayview Avenue, Toronto, ON, M4N 3M5"
+19-003639,2021-02-18,10:45 am,11:00 am,15,"20849 Dalton Road, Georgina, ON, L0E 1R0","17 The Queensway South, Georgina, ON, L4P 0G2"
+19-003690,2021-02-23,09:30 am,09:45 am,15,"350 Industrial Pkwy S, Aurora, ON, L4G 3V7","57 Tecumseh Drive, Aurora, ON, L4G 2X2"
+20-004417,2021-02-11,04:30 pm,05:15 pm,15,"23449 Woodbine Avenue, Georgina, ON, L4P 3E9","24 Hawkins Street, Georgina, ON, L0E"
+20-004317,2021-02-09,01:35 pm,02:05 pm,30,"150 Garden Avenue, Georgina, ON, L4P 2L1","596 Davis Drive, Newmarket, ON, L3Y 2P9"
+19-003425,2021-02-26,10:30 am,11:30 am,60,"8 Lorne Street, Georgina, ON, L0E 1L0","204 Simcoe Avenue, Georgina, ON, L4P 2H6"
+12-000872,2021-02-04,04:00 pm,04:15 pm,15,"23449 Woodbine Avenue, Georgina, ON, L4P 3E9","272 Kenwood Avenue, Georgina, ON, L4P 2X5"
+17-002255,2021-02-11,05:00 pm,05:15 pm,15,"23449 Woodbine Avenue, Georgina, ON, L4P 3E9","43 The Queensway North, Georgina, ON, L4P 3T8"
+19-003859,2021-02-09,09:30 am,09:45 am,15,"350 Industrial Pkwy S, Aurora, ON, L4G 3V7","24 Maple Street, Aurora, ON, L4G 1K9"
