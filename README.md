@@ -1,7 +1,7 @@
 # Route301
 
 Deployed at -> [https://routesmatchingapp.herokuapp.com/trips](https://routesmatchingapp.herokuapp.com/trips)
-Bonus Desktop app can be downloaded at -> https://utoronto-my.sharepoint.com/:f:/g/personal/pawanpreet_mundi_mail_utoronto_ca/EjXm2WrwEj9Ap_qpAV3wHbQBoEo-fhXE8CeOKxY8RTT9_g?e=utzqlJ
+Bonus Desktop app can be downloaded at -> https://utoronto-my.sharepoint.com/:f:/g/personal/pawanpreet_mundi_mail_utoronto_ca/EjXm2WrwEj9Ap_qpAV3wHbQBoEo-fhXE8CeOKxY8RTT9_g?e=bfRRhT
 
 [Phase 1 readme](https://github.com/csc301-winter-2021/team-project-9-routes-connecting-communities/blob/main/deliverables/deliverable-1/planning.md)  
 [Phase 2 readme](https://github.com/csc301-winter-2021/team-project-9-routes-connecting-communities/blob/main/deliverables/deliverable-2/iteration-02-review.md)
